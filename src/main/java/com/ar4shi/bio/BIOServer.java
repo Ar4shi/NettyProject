@@ -14,7 +14,7 @@ import java.util.concurrent.Executors;
 public class BIOServer {
 
     // 1、创建一个线程池
-    // 2、如果有客户端连接，就创建一个线程，与之通讯
+    // 2、如果有客户端连接，就创建一个线程， 与之通讯
     public static void main(String[] args) throws Exception {
         ExecutorService newCachedThreadPool = Executors.newCachedThreadPool();
 
