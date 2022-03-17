@@ -1,6 +1,5 @@
 package com.ar4shi.nio;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.nio.ByteBuffer;
