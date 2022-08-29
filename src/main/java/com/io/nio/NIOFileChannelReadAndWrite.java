@@ -1,4 +1,4 @@
-package com.ar4shi.nio;
+package com.io.nio;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
