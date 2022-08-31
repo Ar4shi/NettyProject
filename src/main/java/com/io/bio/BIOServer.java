@@ -19,7 +19,7 @@ public class BIOServer {
         ExecutorService newCachedThreadPool = Executors.newCachedThreadPool();
 
         // 创建serverSocket
-        ServerSocket serverSocket = new ServerSocket(6666);
+        ServerSocket serverSocket = new ServerSocket(8080);
 
         System.out.println("服务起已启动...");
 
